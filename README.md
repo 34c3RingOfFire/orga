@@ -4,7 +4,8 @@ Find us at the [34c3](https://events.ccc.de/congress/2017/wiki/index.php/Assembl
 
 ## ToDo
 
-- Logo
+- Logo (JPA)
+- socat test
 - Ring Organisation Software
    * DHT approach? 
 - Socat installation
